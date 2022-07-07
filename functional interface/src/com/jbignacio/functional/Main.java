@@ -24,6 +24,7 @@ public class Main {
 		System.out.println(exponent.apply(10));
 		System.out.println(doubleNumber.get());
 
+
 	}
 
 }
